@@ -24,7 +24,7 @@ document.querySelectorAll('a[href^="#"]').forEach(link => {
 // ==========================================
 
 // Replace this number with the business's actual WhatsApp number
-const whatsappNumber = "233XXXXXXXXX";
+const whatsappNumber = "233595805215";
 
 const whatsappMessage =
     "Hello Gladys' Closet! I found your website and I'd like to know more about your collection.";
